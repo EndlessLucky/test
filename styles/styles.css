@@ -248,4 +248,5 @@ main .section {
 /* section metadata */
 main .section.highlight {
   background-color: var(--highlight-background-color);
+  display: none;
 }
